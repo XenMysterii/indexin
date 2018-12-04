@@ -1,0 +1,16 @@
+*{
+	margin: 0;
+	padding:0;
+}
+a{
+	text-decoration: none;
+}
+body{
+
+	font-family: 'Raleway', sans-serif;
+
+}
+.logo{
+	background: #000;
+	width: 100
+}
